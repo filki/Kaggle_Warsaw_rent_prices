@@ -1,3 +1,8 @@
+![Contributors](https://img.shields.io/github/contributors/filki/LoanRepaymentBinaryPred?style=for-the-badge&logo=github)
+![Release](https://img.shields.io/github/release/filki/LoanRepaymentBinaryPred?style=for-the-badge&logo=github)
+![Last_commit](https://img.shields.io/github/last-commit/filki/LoanRepaymentBinaryPred?style=for-the-badge&logo=github)\
+![License](https://img.shields.io/github/license/filki/LoanRepaymentBinaryPred?style=for-the-badge&logo=github)
+
 # Kaggle_Warsaw_rent_prices
 This repository is an attempt to build machine learning model capable of predicting flat prices in Warsaw, Poland. It's synchronized with kaggle network, which you can find here: https://www.kaggle.com/code/filipkin/warsaw-flats
 
